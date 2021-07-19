@@ -79,7 +79,8 @@ ul, li {
     justify-content: center;
     align-items: center;
     color: #fff;
-    background-color: #FF6464;
+    /* background-color: #FF6464; */
+    background-color: #000;
     border-radius: 2px;
 
     transition: background-color 0.2s linear;
