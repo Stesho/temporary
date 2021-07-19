@@ -32,7 +32,7 @@ ul, li {
 /* HEADER======================================================================*/
 .menu {
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 140px;
     padding: 27px 0px 22px 0px;
 }
 
@@ -43,12 +43,12 @@ ul, li {
 
 .menu_link {
     margin-left: 33px;
-    color: #FF6464;
+    color: #000;
     transition: color 0.2s linear;
 }
 
 .menu_link:hover {
-    color: #000;
+    color: #FF6464;    
 }
 
 /* MAIN======================================================================= */
@@ -80,7 +80,7 @@ ul, li {
     align-items: center;
     color: #000;
     background-color: #AAA;
-    border-radius: 20px;
+    border-radius: 2px;
 
     transition: background-color 0.2s linear;
 }
